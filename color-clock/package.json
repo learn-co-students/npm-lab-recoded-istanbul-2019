@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "my first package.json",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Recepteachion"
+  },
+  "keywords": [
+    "first",
+    "npm"
+  ],
+  "author": "recep",
+  "license": "ISC"
+}
