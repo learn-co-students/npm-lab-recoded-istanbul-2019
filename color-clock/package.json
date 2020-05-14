@@ -1,0 +1,21 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "clock changing color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "new"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
